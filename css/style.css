@@ -544,23 +544,23 @@ span {
 }
 
 .skill-column:nth-child(1) .skill-contetnt .progress:nth-child(1) .bar span {
-    width: 90%;
+    width: 95%;
 }
 
 .skill-column:nth-child(1) .skill-contetnt .progress:nth-child(2) .bar span {
-    width: 80%;
+    width: 95%;
 }
 
 .skill-column:nth-child(1) .skill-contetnt .progress:nth-child(3) .bar span {
-    width: 75%;
+    width: 90%;
 }
 
 .skill-column:nth-child(1) .skill-contetnt .progress:nth-child(4) .bar span {
-    width: 65%;
+    width: 90%;
 }
 
 .skill-column:nth-child(2) .skill-contetnt .progress:nth-child(1) .bar span {
-    width: 60%;
+    width: 90%;
 }
 
 .skill-column:nth-child(2) .skill-contetnt .progress:nth-child(2) .bar span {
@@ -568,11 +568,11 @@ span {
 }
 
 .skill-column:nth-child(2) .skill-contetnt .progress:nth-child(3) .bar span {
-    width: 50%;
+    width: 90%;
 }
 
 .skill-column:nth-child(2) .skill-contetnt .progress:nth-child(4) .bar span {
-    width: 75%;
+    width: 90%;
 }
 
 .contact {
